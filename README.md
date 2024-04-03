@@ -8,4 +8,4 @@
 
 ##### flux_data_compilation.csv Input data for the meta analysis
 
-### Additional information about the meta analysis of flux data is available on zenodo: 10.5281/zenodo.10914506
+### Additional information about the meta analysis of flux data is available on zenodo: [10.5281/zenodo.10914506](https://zenodo.org/doi/10.5281/zenodo.10914505)
