@@ -2,9 +2,9 @@
 
 ### Files include:
 
-##### Clean_Code_for_Review_Figs.R Script to make Figure 3 (an upset plot using the R package complexUpset) and code for a meta analysis of carbon dioxide and methane flux data
+##### Clean_Code_for_Review_Figs_V2.R Script to make Figure 3 (an upset plot using the R package complexUpset) and code for a meta analysis of carbon dioxide and methane flux data
 
-##### ord_vars_for_R_V3.csv Input data for Figure 3
+##### ord_vars_for_R_V4.csv Input data for Figure 3
 
 ##### flux_data_compilation.csv Input data for the meta analysis
 
