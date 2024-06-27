@@ -1,0 +1,144 @@
+Article,Layer,Days,variable,group_id,mean,sd,n
+Dutta,ActiveLayer,30,mg CO2 / g dry soil,AL_30d_5C,0.054545455,NA,12
+Dutta,Permafrost,30,mg CO2 / g dry soil,PF_30d_5C,0.120909091,0.078743577,3
+Dutta,ActiveLayer,55,mg CO2 / g dry soil,AL_55d_5C,0.08,NA,12
+Dutta,Permafrost,55,mg CO2 / g dry soil,PF_55d_5C,0.172727273,0.12834183,3
+Dutta,ActiveLayer,45,mg CO2 / g dry soil,AL_45d_5C,0.069090909,NA,12
+Dutta,Permafrost,45,mg CO2 / g dry soil,PF_45d_5C,0.144545455,0.093106769,3
+Dutta,ActiveLayer,70,mg CO2 / g dry soil,AL_70d_5C,0.083636364,NA,12
+Dutta,Permafrost,70,mg CO2 / g dry soil,PF_70d_5C,0.19,0.143236882,3
+Dutta,ActiveLayer,95,mg CO2 / g dry soil,AL_95d_5C,0.098181818,NA,12
+Dutta,Permafrost,95,mg CO2 / g dry soil,PF_95d_5C,0.21,0.15926484,3
+Dutta,ActiveLayer,30,mg CO2 / g dry soil,AL_30d_10C,0.100900901,NA,3
+Dutta,ActiveLayer,45,mg CO2 / g dry soil,AL_45d_10C,0.108108108,NA,3
+Dutta,ActiveLayer,70,mg CO2 / g dry soil,AL_70d_10C,0.12972973,NA,3
+Dutta,ActiveLayer,95,mg CO2 / g dry soil,AL_95d_10C,0.133333333,NA,3
+Dutta,ActiveLayer,55,mg CO2 / g dry soil,AL_55d_10C,0.126126126,NA,12
+Dutta,Permafrost,30,mg CO2 / g dry soil,PF_30d_10C,0.17009009,0.068629493,12
+Dutta,Permafrost,45,mg CO2 / g dry soil,PF_45d_10C,0.18954955,0.077690886,12
+Dutta,Permafrost,55,mg CO2 / g dry soil,PF_55d_10C,0.21981982,0.094108576,12
+Dutta,Permafrost,70,mg CO2 / g dry soil,PF_70d_10C,0.227747748,0.102478022,12
+Dutta,Permafrost,95,mg CO2 / g dry soil,PF_95d_10C,0.257297297,0.127828917,3
+Dutta,ActiveLayer,30,mg CO2 / g dry soil,AL_30d_15C,0.122472681,NA,3
+Dutta,ActiveLayer,60,mg CO2 / g dry soil,AL_60d_15C,0.205958597,NA,3
+Dutta,ActiveLayer,40,mg CO2 / g dry soil,AL_40_15C,0.141483208,NA,3
+Dutta,ActiveLayer,50,mg CO2 / g dry soil,AL_50d_15C,0.170138936,NA,3
+Dutta,ActiveLayer,85,mg CO2 / g dry soil,AL_85d_15C,0.245360225,NA,3
+Dutta,Permafrost,30,mg CO2 / g dry soil,PF_30d_15C,0.262374564,0.166766715,12
+Dutta,Permafrost,40,mg CO2 / g dry soil,PF_40d_15C,0.297298733,0.191883309,12
+Dutta,Permafrost,50,mg CO2 / g dry soil,PF_50d_15C,0.281179886,0.203952004,15
+Dutta,Permafrost,60,mg CO2 / g dry soil,PF_60d_15C,0.316999547,0.22080722,15
+Dutta,Permafrost,85,mg CO2 / g dry soil,PF_85d_15C,0.356401174,0.235076333,15
+Jiang,ActiveLayer,5,mg CO2 / kg soil * h,AL_5d_5C,0.36069869,0.089037292,16
+Jiang,ActiveLayer,10,mg CO2 / kg soil * h,AL_12d_5C,0.319068413,0.041969889,16
+Jiang,ActiveLayer,20,mg CO2 / kg soil * h,AL_20d_5C,0.151382824,0.029711443,16
+Jiang,ActiveLayer,30,mg CO2 / kg soil * h,AL_28d_5C,0.175836972,0.038321939,16
+Jiang,Permafrost,5,mg CO2 / kg soil * h,PF_5d_5C,0.201455604,0.046912925,16
+Jiang,Permafrost,10,mg CO2 / kg soil * h,PF_12d_5c,0.204949054,0.028020284,16
+Jiang,Permafrost,20,mg CO2 / kg soil * h,PF_20d_5C,0.059388646,0.017467249,16
+Jiang,Permafrost,30,mg CO2 / kg soil * h,PF_28d_5C,0.082678311,0.007272196,16
+Jiang,ActiveLayer,5,mg CO2 / kg soil * h,AL_5d_15C,0.856031128,0.364929933,16
+Jiang,ActiveLayer,10,mg CO2 / kg soil * h,AL_12d_15C,0.6692607,0.250482131,16
+Jiang,ActiveLayer,20,mg CO2 / kg soil * h,AL_20d_15C,0.552529183,0.264934545,16
+Jiang,ActiveLayer,30,mg CO2 / kg soil * h,AL_28d_15C,0.531776913,0.186824463,16
+Jiang,ActiveLayer,55,mg CO2 / kg soil * h,AL_55d_15C,0.391699092,0.144615926,16
+Jiang,ActiveLayer,40,mg CO2 / kg soil * h,AL_40d_15C,0.469520104,0.096049331,16
+Jiang,Permafrost,5,mg CO2 / kg soil * h,PF_5d_15C,0.324254215,0.081742938,16
+Jiang,Permafrost,10,mg CO2 / kg soil * h,PF_12d_15C,0.285343709,0.073964085,16
+Jiang,Permafrost,20,mg CO2 / kg soil * h,PF_20d_15C,0.168612192,0.03916905,16
+Jiang,Permafrost,30,mg CO2 / kg soil * h,PF_28d_15C,0.225680934,0.058753575,16
+Jiang,Permafrost,40,mg CO2 / kg soil * h,PF_40d_15C,0.204928664,0.058408977,16
+Jiang,Permafrost,55,mg CO2 / kg soil * h,PF_55d_15C,0.158236057,0.031450987,16
+Moni,Permafrost,10,ug CO2 / soil org. carbon * d,PF_ADV_10d,95.75319452,76.71918875,12
+Moni,Permafrost,45,ug CO2 / soil org. carbon * d,PF_ADV_35d,54.30861905,9.387961265,12
+Moni,Permafrost,55,ug CO2 / soil org. carbon * d,PF_ADV_55d,37.29778583,10.57022711,12
+Moni,Permafrost,85,ug CO2 / soil org. carbon * d,PF_ADV_85d,38.84422522,17.034248,12
+Moni,ActiveLayer,10,ug C / g soil org c * d,AL_ADV1_10d,47.95081967,20.45077861,12
+Moni,ActiveLayer,30,ug C / g soil org c * d,AL_ADV1_25C,37.57227962,15.33344135,12
+Moni,ActiveLayer,45,ug C / g soil org c * d,AL_ADV1_45d,33.85741833,16.45536762,12
+Moni,ActiveLayer,85,ug C / g soil org c * d,AL_ADV1_85d,32.20636886,17.15820934,12
+Moni,Permafrost,10,ug CO2 / g soil org. carbon * d,PF_ADV2_10d,199.1388889,88.72362031,12
+Moni,Permafrost,30,ug CO2 / g soil org. carbon * d,PF_ADV2_30d,108.7470978,30.52694926,12
+Moni,Permafrost,55,ug CO2 / g soil org. carbon * d,PF_ADV2_55d,81.31085478,34.34844977,12
+Moni,Permafrost,85,ug CO2 / g soil org. carbon * d,PF_ADV2_85d,62.25052591,23.07746462,12
+Moni,ActiveLayer,10,ug CO2 / soil org. carbon * d,AL_ADV2_10d,32.55084193,14.44895358,12
+Moni,ActiveLayer,30,ug CO2 / soil org. carbon * d,AL_ADV2_30d,29.80283253,14.86256524,12
+Moni,ActiveLayer,55,ug CO2 / soil org. carbon * d,AL_ADV2_55d,29.80283253,22.10989922,12
+Moni,ActiveLayer,85,ug CO2 / soil org. carbon * d,AL_ADV2_85d,34.51370578,24.50777868,12
+Moni,ActiveLayer,10,ug CO2 / g soil org. carbon * d,AL_NDN1_10d,18.45549738,10.44827332,12
+Moni,ActiveLayer,30,ug CO2 / g soil org. carbon * d,AL_NDN1_30d,17.67015707,11.78010471,12
+Moni,ActiveLayer,55,ug CO2 / g soil org. carbon * d,AL_NDN1_55d,15.70680628,9.766889061,12
+Moni,ActiveLayer,85,ug CO2 / g soil org. carbon * d,AL_NDN1_85d,16.88481675,9.543312112,12
+Moni,Permafrost,10,ug CO2 / g soil org. carbon * d,PF_NDN1_10d,60.86387435,35.34031414,12
+Moni,Permafrost,30,ug CO2 / g soil org. carbon * d,PF_NDN1_30d,65.96858639,39.94184528,12
+Moni,Permafrost,55,ug CO2 / g soil org. carbon * d,PF_NDN1_55d,61.2565445,34.72116153,12
+Moni,Permafrost,85,ug CO2 / g soil org. carbon * d,PF_NDN1_85d,63.61256545,35.82850704,12
+Moni,ActiveLayer,10,ug CO2 / g soil org. carbon * d,AL_NDN2_10d,42.10526316,17.46385266,12
+Moni,ActiveLayer,30,ug CO2 / g soil org. carbon * d,AL_NDN2_30d,35.52631579,19.53050033,12
+Moni,ActiveLayer,55,ug CO2 / g soil org. carbon * d,AL_NDN2_55d,39.47368421,27.07330768,12
+Moni,ActiveLayer,85,ug CO2 / g soil org. carbon * d,AL_NDN2_85d,47.76315789,26.30657733,12
+Moni,ActiveLayer,10,ug CO2 / soil org. carbon * d,Al_NDN2_10d,33.56353591,31.2545592,12
+Moni,ActiveLayer,30,ug CO2 / soil org. carbon * d,AL_NDN2_30d,40.60773481,29.04102011,12
+Moni,ActiveLayer,55,ug CO2 / soil org. carbon * d,AL_NDN2_55d,33.56353591,17.03100844,12
+Moni,ActiveLayer,85,ug CO2 / soil org. carbon * d,AL_NDN2_85d,29.28176796,14.94778924,12
+Moni,Permafrost,10,ug CO2 / soil organic carbon * d,PF_VRK1_10d,28.03398058,11.55146023,12
+Moni,Permafrost,30,ug CO2 / soil organic carbon * d,PF_VRK1_25d,22.9368932,6.97155661,12
+Moni,Permafrost,50,ug CO2 / soil organic carbon * d,PF_VRK1_50d,11.65048544,4.9026723,12
+Moni,Permafrost,70,ug CO2 / soil organic carbon * d,PF_VRK1_70d,10.9223301,2.522404089,12
+Moni,ActiveLayer,10,ug CO2 / g soil organic carbon * d,AL_VRK1_10d,18.2038835,9.841327637,12
+Moni,ActiveLayer,30,ug CO2 / g soil organic carbon * d,AL_VRK1_28d,16.01941748,6.830702563,12
+Moni,ActiveLayer,50,ug CO2 / g soil organic carbon * d,AL_VRK1_48d,11.28640777,5.62457778,12
+Moni,ActiveLayer,70,ug CO2 / g soil organic carbon * d,AL_VRK1_70d,14.5631068,6.178602942,12
+Moni,ActiveLayer,10,ug CO2 / g soil organic carbon * d,AL_VRK2_10d,31.93779904,4.885305707,12
+Moni,ActiveLayer,30,ug CO2 / g soil organic carbon * d,AL_VRK2_30d,22.24880383,3.612360974,12
+Moni,ActiveLayer,55,ug CO2 / g soil organic carbon * d,AL_VRK2_55d,13.27751196,1.374297284,12
+Moni,ActiveLayer,80,ug CO2 / g soil organic carbon * d,AL_VRK2_78d,7.535885167,1.806180487,12
+Moni,ActiveLayer,10,ug CO2 / g soil org. carbon * d,AL_VRK2_10d,38.0952381,20.81665999,12
+Moni,ActiveLayer,30,ug CO2 / g soil org. carbon * d,AL_VRK2_30d,33.33333333,12.14985793,12
+Moni,ActiveLayer,55,ug CO2 / g soil org. carbon * d,AL_VRK2_55d,28.92857143,12.79748062,12
+Moni,ActiveLayer,80,ug CO2 / g soil org. carbon * d,AL_VRK2_78d,33.57142857,14.96026483,12
+Moni,Permafrost,10,ug CO2 / g soil org. carbon * d,PF_VRK3_10d,150,145.6287385,12
+Moni,Permafrost,30,ug CO2 / g soil org. carbon * d,PF_VRK3_30d,92.39130435,28.13672721,12
+Moni,Permafrost,55,ug CO2 / g soil org. carbon * d,PF_VRK3_55d,68.47826087,19.45756751,12
+Moni,Permafrost,80,ug CO2 / g soil org. carbon * d,PF_VRK3_78d,54.71014493,11.91435986,12
+Moni,ActiveLayer,10,ug CO2 / g soil org. carbon * d,AL_VRK3_10d,35.69711538,24.57219957,12
+Moni,ActiveLayer,30,ug CO2 / g soil org. carbon * d,AL_VRK3_30d,40.74519231,26.44777041,12
+Moni,ActiveLayer,55,ug CO2 / g soil org. carbon * d,AL_VRK3_55d,36.41826923,23.59323261,12
+Moni,ActiveLayer,80,ug CO2 / g soil org. carbon * d,AL_VRK3_78d,37.5,21.03331044,12
+Moni,Permafrost,10,ug CO2 / g soil org. carbon * d,PF_VRK4_10d,73.88894459,23.54505748,12
+Moni,Permafrost,30,ug CO2 / g soil org. carbon * d,PF_VRK4_30d,66.4110463,16.37427635,12
+Moni,Permafrost,55,ug CO2 / g soil org. carbon * d,PF_VRK4_55d,29.22366023,10.93612249,12
+Moni,Permafrost,80,ug CO2 / g soil org. carbon * d,PF_VRK4_78d,17.5015494,6.26200552,12
+Moni,ActiveLayer,10,ug CO2 / g soil org. carbon * d,AL_VRK4_10d,22.88135593,6.962574884,12
+Moni,ActiveLayer,30,ug CO2 / g soil org. carbon * d,AL_VRK4_30d,24.47033898,6.429657163,12
+Moni,ActiveLayer,55,ug CO2 / g soil org. carbon * d,AL_VRK4_55d,18.11440678,6.085341787,12
+Moni,ActiveLayer,80,ug CO2 / g soil org. carbon * d,AL_VRK4_78d,18.11440678,7.068147168,12
+Roy Chowdhury,ActiveLayer,5,umol CO2 / g soil,AL_ORG_5d,93.08836395,58.68318769,9
+Roy Chowdhury,ActiveLayer,10,umol CO2 / g soil,AL_ORG_10d,144.1819773,75.06622861,9
+Roy Chowdhury,ActiveLayer,20,umol CO2 / g soil,AL_ORG_21d,166.5791776,66.28600133,9
+Roy Chowdhury,ActiveLayer,35,umol CO2 / g soil,AL_ORG_32d,179.5275591,48.32818598,9
+Roy Chowdhury,ActiveLayer,50,umol CO2 / g soil,AL_ORG_50d,238.6701662,64.29392668,9
+Roy Chowdhury,ActiveLayer,50,umol CO2 / g soil,AL_ORG_62d,272.9658793,62.91333655,NA
+Roy Chowdhury,ActiveLayer,5,umol CO2 / g soil,AL_MIN_5d,4.375,1.77547785,9
+Roy Chowdhury,ActiveLayer,10,umol CO2 / g soil,AL_MIN_10d,6.222826087,3.120625483,9
+Roy Chowdhury,ActiveLayer,20,umol CO2 / g soil,AL_MIN_21d,8.369565217,4.56909773,9
+Roy Chowdhury,ActiveLayer,35,umol CO2 / g soil,AL_MIN_32d,9.510869565,5.422472471,9
+Roy Chowdhury,ActiveLayer,50,umol CO2 / g soil,AL_MIN_50d,13.66847826,7.635386028,9
+Roy Chowdhury,ActiveLayer,50,umol CO2 / g soil,AL_MIN_63d,16.54891304,8.439370461,9
+Roy Chowdhury,Permafrost,5,umol CO2 / g soil,PF_5d,1.984126984,0.447832888,9
+Roy Chowdhury,Permafrost,10,umol CO2 / g soil,PF_10d,2.264550265,0.598211269,9
+Roy Chowdhury,Permafrost,20,umol CO2 / g soil,PF_20d,3.031746032,0.845303299,9
+Roy Chowdhury,Permafrost,35,umol CO2 / g soil,PF_35d,3.46031746,0.684014648,9
+Roy Chowdhury,Permafrost,50,umol CO2 / g soil,PF_55d,4.285714286,0.879915019,9
+Roy Chowdhury,ActiveLayer,5,umol CO2 / g soil,AL_ORG2_5d,21.10817942,12.17157002,9
+Roy Chowdhury,ActiveLayer,10,umol CO2 / g soil,AL_ORG2_11d,42.56816183,23.79551321,9
+Roy Chowdhury,ActiveLayer,20,umol CO2 / g soil,AL_ORG2_20d,60.15831135,34.31296719,9
+Roy Chowdhury,ActiveLayer,35,umol CO2 / g soil,AL_ORG2_29d,71.76781003,39.22090591,9
+Roy Chowdhury,ActiveLayer,50,umol CO2 / g soil,AL_ORG2_42d,106.9481091,53.44511553,9
+Roy Chowdhury,ActiveLayer,50,umol CO2 / g soil,AL_ORG2_55d,131.9261214,74.41194612,9
+Roy Chowdhury,ActiveLayer,5,umol CO2 / g,AL_Min2_5d,1.820580475,0.912867752,9
+Roy Chowdhury,ActiveLayer,10,umol CO2 / g,AL_Min2_11d,3.377308707,1.821153976,9
+Roy Chowdhury,ActiveLayer,20,umol CO2 / g,AL_Min2_20d,4.274406332,2.299605126,9
+Roy Chowdhury,ActiveLayer,35,umol CO2 / g,AL_Min2_29d,4.907651715,3.324538259,9
+Roy Chowdhury,ActiveLayer,50,umol CO2 / g,AL_Min2_42d,6.7810026390000004,5.304217639,9
+Roy Chowdhury,ActiveLayer,50,umol CO2 / g,AL_Min2_55d,8.918205805,7.059662479,9

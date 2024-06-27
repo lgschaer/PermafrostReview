@@ -1,0 +1,65 @@
+Article,variable,group_id,Temperature,Headspace,mean,sd,n,se
+Capek 2015,umol CO2 / g dry soil * d,Ae_AJJ_12C,12,Aerobic,0.929648241,0.590452261,4,0.295226131
+Capek 2015,umol CO2 / g dry soil * d,Ae_AJJ_20C,20,Aerobic,0.621859296,0.477386935,4,0.238693467
+Capek 2015,umol CO2 / g dry soil * d,Ae_AJJ_4C,4,Aerobic,0.489949749,0.67839196,4,0.33919598
+Capek 2015,umol CO2 / g dry soil * d,Ae_BCg_12C,12,Aerobic,0.443786982,0.482840237,4,0.241420118
+Capek 2015,umol CO2 / g dry soil * d,Ae_BCg_20C,20,Aerobic,0.269822485,0.426035503,4,0.213017751
+Capek 2015,umol CO2 / g dry soil * d,Ae_BCg_4C,4,Aerobic,0.209467456,0.255621302,4,0.127810651
+Capek 2015,umol / g dry soil * day,Ae_O_12C,12,Aerobic,4.404761905,1.904761905,4,0.952380952
+Capek 2015,umol / g dry soil * day,Ae_O_20C,20,Aerobic,7.738095238,1.428571429,4,0.714285714
+Capek 2015,umol / g dry soil * day,Ae_O_4C,4,Aerobic,2.380952381,0.952380952,4,0.476190476
+Capek 2015,umol CO2 / g dry soil * d,An_AJJ_12C,12,Anaerobic,0.194723618,0.075376884,4,0.037688442
+Capek 2015,umol CO2 / g dry soil * d,An_AJJ_20C,20,Anaerobic,0.33919598,0.163316583,4,0.081658291
+Capek 2015,umol CO2 / g dry soil * d,An_AJJ_4C,4,Anaerobic,0.087939698,0.100502513,4,0.050251256
+Capek 2015,umol CO2 / g dry soil * d,An_BCg_12C,12,Anaerobic,0.021301775,0.021301775,4,0.010650888
+Capek 2015,umol CO2 / g dry soil * d,An_BCg_20C,20,Anaerobic,0.081656805,0.163313609,4,0.081656805
+Capek 2015,umol CO2 / g dry soil * d,An_BCg_4C,4,Anaerobic,0.003550296,0.021301775,4,0.010650888
+Capek 2015,umol / g dry soil * day,An_O_12C,12,Anaerobic,2.797619048,0.952380952,4,0.476190476
+Capek 2015,umol / g dry soil * day,An_O_20C,20,Anaerobic,5.773809524,1.30952381,4,0.654761905
+Capek 2015,umol / g dry soil * day,An_O_4C,4,Anaerobic,1.369047619,0.357142857,4,0.178571429
+Ernakovich 2017,ug CO2 / g dry soil,Ae_15C,15,Aerobic,533.0138771,319.2053142,6,130.3150238
+Ernakovich 2017,ug CO2 / g dry soil,Ae_1C,1,Aerobic,228.7676808,121.9946781,6,49.80411877
+Ernakovich 2017,ug CO2 / g dry soil,An_15C,15,Anaerobic,310.4134955,169.8947265,6,69.35923163
+Ernakovich 2017,ug CO2 / g dry soil,An_1C,1,Anaerobic,119.9487961,61.66690605,6,25.17540897
+Kane 2013,umol / g soil * d,Ae_Ctrl_10cm_2C,2,Aerobic,10.99264706,6.982197456,8,2.468579584
+Kane 2013,umol / g soil * d,Ae_Ctrl_25cm_2C,2,Aerobic,6.102941176,2.235100611,8,0.790227399
+Kane 2013,umol / g soil * d,Ae_Low_10cm_2C,2,Aerobic,9.448529412,4.147953943,8,1.466523181
+Kane 2013,umol / g soil * d,Ae_Low_25cm_2C,2,Aerobic,4.535444947,1.928904114,8,0.68197059
+Kane 2013,umol / g soil * d,Ae_Rise_10cm_2C,2,Aerobic,10.99264706,5.036451615,8,NA
+Kane 2013,umol / g soil * d,Ae_Rise_25cm_2C,2,Aerobic,5.749622926,2.718675845,8,0.961197063
+Kane 2013,umol CO2 / g soil * day,An_Ctrl_10cm_2C,2,Anaerobic,15.20979021,2.443386398,8,0.863867545
+Kane 2013,umol CO2 / g soil * d,An_Ctrl_25cm_2C,2,Anaerobic,6.072695035,2.074670132,8,0.73350666
+Kane 2013,umol CO2 / g soil * day,An_Low_10cm_2C,2,Anaerobic,13.98601399,4.534233954,8,1.603093788
+Kane 2013,umol CO2 / g soil * d,An_Low_25cm_2C,2,Anaerobic,5.274822695,2.2723414220000002,8,0.803394014
+Kane 2013,umol CO2 / g soil * day,An_Rise_10cm_2C,2,Anaerobic,12.98076923,2.926690392,8,1.034741311
+Kane 2013,umol CO2 / g soil * d,An_Rise_25cm_2C,2,Anaerobic,6.382978723,2.057552622,8,0.727454706
+Knoblauch 2013,mg CO2 / g dry soil,Ae_KGK_4C,4,Aerobic,1.25334384,0.940892443,3,0.543224505
+Knoblauch 2013,mg CO2 / g dry weight,Ae_SML_4C,4,Aerobic,1.203349282,0.547710317,4,0.273855158
+Knoblauch 2013,mg CO2 / g dry soil,An_KGK_4C,4,Anaerobic,0.213310525,0.124649065,4,0.062324532
+Knoblauch 2013,mg CO2 / g dry soil,An_SML_4C,4,Anaerobic,0.231716418,0.108299719,4,0.05414986
+Knoblauch 2018,g CO2 / kg soil C,Ae_4C,4,Aerobic,114.5833333,61.36739432,12,17.71524081
+Knoblauch 2018,g CO2 / kg soil C,An_4C,4,Anaerobic,16.52298851,11.62303298,12,3.355280611
+Lee 2012,mg CO2 / g dry soil * day,Ae_FOX_15C,15,Aerobic,6.616527239,2.853634627,3,0.475605771
+Lee 2012,mg CO2 / g dry soil * day,Ae_mEXT_15C,15,Aerobic,11.14824559,4.466955645,3,0.68926622
+Lee 2012,mg CO2 / g dry soil * day,Ae_mMIN_15C,15,Aerobic,14.23828125,3.881706247,3,NA
+Lee 2012,mg CO2 / g dry soil * day,Ae_mMOD_15C,15,Aerobic,4.6875,2.21776793,3,0.369627988
+Lee 2012,mg CO2 / g dry soil * day,Ae_oEXT_15C,15,Aerobic,266.9987547,251.5908883,3,43.79635209
+Lee 2012,mg CO2 / g dry soil * day,Ae_oMIN_15C,15,Aerobic,191.7808219,78.7489827,3,13.12483045
+Lee 2012,mg CO2 / g dry soil * day,Ae_oMOD_15C,15,Aerobic,164.805058,114.7083195,3,18.36803143
+Lee 2012,mg CO2 / g dry soil * day,Ae_SIB_15C,15,Aerobic,7.730363006,1.985029169,3,0.345549225
+Lee 2012,mg CO2 / g dry soil * day,Ae_TLK_15C,15,Aerobic,9.16470422,4.10361222,3,0.657103849
+Lee 2012,mg CO2 / g dry soil * day,AL_ITK1_15C,15,Aerobic,11.76274945,3.593471688,3,0.625543128
+Lee 2012,mg CO2 / g dry soil * day,AL_ITK2_15C,15,Aerobic,7.235772358,2.284656738,3,0.380776123
+Lee 2012,mg CO2 / g dry soil * day,AL_SAG_15C,15,Aerobic,3.869179601,1.320333486,3,0.229840558
+Lee 2012,mg CO2 / g dry soil * day,An_FOX_15C,15,Anaerobic,1.035046729,1.283635589,3,0.213939265
+Lee 2012,mg CO2 / g dry soil * day,An_ITK1_15C,15,Anaerobic,1.420930233,1.689716935,3,0.281619489
+Lee 2012,mg CO2 / g dry soil * day,An_ITK2_15C,15,Anaerobic,1.144186047,1.037790298,3,0.17296505
+Lee 2012,mg CO2 / g dry soil * day,An_mEXT_15C,15,Anaerobic,1.353488372,1.147522594,3,0.191253766
+Lee 2012,mg CO2 / g dry soil * day,An_mMIN_15C,15,Anaerobic,1.38372093,1.357097257,3,0.226182876
+Lee 2012,mg CO2 / g dry soil * day,AN_mMOD_15C,15,Anaerobic,0.602325581,0.449901246,3,0.074983541
+Lee 2012,mg CO2 / g dry soil * day,An_oEXT_15C,15,Anaerobic,25.57788945,34.8588599,3,5.809809983
+Lee 2012,mg CO2 / g dry soil * day,An_oMIN_15C,15,Anaerobic,18.24120603,23.89772543,3,3.982954238
+Lee 2012,mg CO2 / g dry soil * day,An_oMOD_15C,15,Anaerobic,20.50251256,24.81370566,3,4.13561761
+Lee 2012,mg CO2 / g dry soil * day,An_SAG_15C,15,Anaerobic,0.53255814,0.428460438,3,0.071410073
+Lee 2012,mg CO2 / g dry soil * day,An_SIB_15C,15,Anaerobic,0.820730671,0.683225744,3,0.113870957
+Lee 2012,mg CO2 / g dry soil * day,An_TLK_15C,15,Anaerobic,0.413551402,0.365196028,3,0.060866005

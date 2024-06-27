@@ -1,0 +1,59 @@
+Article,Time,Temperature,Layer,variable,group_id,mean,n,sd
+Treat,30,-5,ActiveLayer,ug CH4 / g C,AM_-5C,-0.317589713,12,2.497856279
+Treat,30,-5,Permafrost,ug CH4 / g C,SPH_-5C,-1.128792335,12,1.561160174
+Treat,30,0,ActiveLayer,ug CH4 / g C,AM_0C,-0.047188839,12,3.434552383
+Treat,30,0,Permafrost,ug CH4 / g C,SPH_0C,-1.038658711,12,1.561160174
+Treat,30,4,ActiveLayer,ug CH4 / g C,AM_4C,-0.497856963,12,2.810088313
+Treat,30,4,Permafrost,ug CH4 / g C,SPH_4C,-1.579460459,12,2.497856279
+Treat,30,20,Permafrost,ug CH4 / g C,SED_20C,15.18539373,12,26.85195499
+Treat,30,20,Permafrost,ug CH4 / g C,AM_20C,3.0173544,12,8.43026494
+Treat,30,20,ActiveLayer,ug CH4 / g C,SPH_SD_20C,2.296285402,12,7.493568836
+Treat,30,20,Permafrost,ug CH4 / g C,SPH_20C,-0.137322464,12,6.244640696
+Mackelprang,2,5,ActiveLayer,ppm CH4 / g wet soil,AL_2d,1.818181818,3,3.411615227
+Mackelprang,7,5,ActiveLayer,ppm CH4 / g wet soil,AL_7d,1.060606061,3,2.099455524
+Mackelprang,2,5,Permafrost,ppm CH4 / g wet soil,PF_2d,14.84848485,3,7.872958216
+Mackelprang,7,5,Permafrost,ppm CH4 / g wet soil,PF_7d,4.848484848,3,5.248638811
+Roy Chowdhury,24,-2,ActiveLayer,umol CH4 / g soil,AL_Organic_-2,0.256030829,27,0.106048343
+Roy Chowdhury,24,4,ActiveLayer,umol CH4 / g soil,AL_Organic_4C,0.65234444,33,0.242184614
+Roy Chowdhury,24,8,ActiveLayer,umol CH4 / g soil,AL_Organic_8C,3.561589597,39,3.560718933
+Roy Chowdhury,24,-2,ActiveLayer,umol CH4 / g soil,AL_Mineral_-2C,0.071888555,39,0.044383604
+Roy Chowdhury,24,4,ActiveLayer,umol CH4 / g soil,AL_Mineral_4C,0.877369064,39,0.613480592
+Roy Chowdhury,24,8,ActiveLayer,umol CH4 / g soil,AL_Mineral_8C,1.948101112,39,1.428501288
+Song,23,5,ActiveLayer,CH4 mg / g * d,AL1,0.09566075,18,0.137685794
+Song,23,5,ActiveLayer,CH4 mg / g * d,AL2,0.074656644,18,0.102628531
+Song,23,5,Permafrost,CH4 mg / g * d,PF1,0.093455798,18,0.132367386
+Song,23,5,Permafrost,CH4 mg / g * d,PF2,0.037060031,18,0.04894953
+Song,23,5,Permafrost,CH4 mg / g * d,PF3,0.035355207,18,0.048544095
+Jiang,24,5,ActiveLayer,ug CH4 / kg soil * h,AL1,0.165702287,40,0.08712778
+Jiang,24,5,ActiveLayer,ug CH4 / kg soil * h,AL2,0.111083863,20,0.04022001
+Jiang,24,5,ActiveLayer,ug CH4 / kg soil * h,AL4,0.222488108,16,0.08505483
+Jiang,24,5,Permafrost,ug CH4 / kg soil * h,PF1,0.191133087,40,0.045232496
+Jiang,24,5,Permafrost,ug CH4 / kg soil * h,PF2,0.152237782,36,0.10005909
+Jiang,24,5,Permafrost,ug CH4 / kg soil * h,PF3,0.14389987,36,0.101640568
+Jiang,24,5,Permafrost,ug CH4 / kg soil * h,PF4,0.174277779,44,0.198001029
+Jiang,24,5,ActiveLayer,ug CH4 / kg soil * h,AL3,0.31074698,8,0.050819086
+Jiang,24,15,ActiveLayer,ug CH4 / kg soil * h,AL1_15C,7.963800905,40,5.085081751
+Jiang,24,15,ActiveLayer,ug CH4 / kg soil * h,AL2_15C,11.36651584,40,11.72885437
+Jiang,24,15,ActiveLayer,ug CH4 / kg soil * h,AL3_15C,41.4841629,40,40.99162817
+Jiang,24,15,ActiveLayer,ug CH4 / kg soil * h,AL4_15C,51.76470588,40,58.14260334
+Jiang,24,15,Permafrost,ug CH4 / kg soil * h,PF1_15C,21.50226244,40,24.11836677
+Jiang,24,15,Permafrost,ug CH4 / kg soil * h,PF2_15C,9.918552036,40,8.607302782
+Jiang,24,15,Permafrost,ug CH4 / kg soil * h,PF3_15C,15.71040724,40,16.044363830000002
+Jiang,24,15,Permafrost,ug CH4 / kg soil * h,PF4_15C,3.619909502,40,1.023865023
+Waldrop,98,5,ActiveLayer,umol CH4 / g soil * d,HessCreek_AL_5C,0.768627451,9,0.081508273
+Waldrop,98,5,Permafrost,umol CH4 / g soil * d,HessCreek_PF_5C,0.478431373,9,0.095092986
+Waldrop,98,5,ActiveLayer,umol CH4 / g soil * d,SmithCreek_AL_5C,0.447058824,9,0.183393615
+Waldrop,98,5,Permafrost,umol CH4 / g soil * d,SmithCreek_PF_5C,0.333333333,9,0.088300629
+Waldrop,98,5,ActiveLayer,umol CH4 / g soil * d,Coldfoot_AL_5C,0.301960784,9,0.176601259
+Waldrop,98,5,Permafrost,umol CH4 / g soil * d,Coldfoot_PF_5C,0.443137255,9,0.149431834
+Jiang,24,5,ActiveLayer,ug CH4 / kg soil * h,AL3_5C,2.014159292,36,0.548700297
+Jiang,24,5,ActiveLayer,ug CH4 / kg soil * h,AL4_5C,3.628318584,36,2.793481555
+Roy Chowdhury,24,-2,ActiveLayer,umol CH4 / g soil,Org_-2,2.045575693,45,1.12009816
+Roy Chowdhury,24,4,ActiveLayer,umol CH4 / g soil,Org_4,30.19766125,45,20.07556125
+Roy Chowdhury,24,8,ActiveLayer,umol CH4 / g soil,Org_8,41.65925465,45,28.59162905
+Roy Chowdhury,24,-2,ActiveLayer,umol CH4 / g,Mineral_-2,0.237797189,45,0.129071709
+Roy Chowdhury,24,4,ActiveLayer,umol CH4 / g,Mineral_4,0.31263078,45,0.186851189
+Roy Chowdhury,24,8,ActiveLayer,umol CH4 / g,Mineral_8,0.951770739,45,0.962118902
+Roy Chowdhury,24,-2,Permafrost,umol CH4 / g,Perm_-2,0.012238022,44,0.005067207
+Roy Chowdhury,24,4,Permafrost,umol CH4 / g,Perm_4,0.017727568,44,0.00579955
+Roy Chowdhury,24,8,Permafrost,umol CH4 / g,Perm_8,0.019459825,40,0.007561055
