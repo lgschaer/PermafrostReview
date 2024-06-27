@@ -11,17 +11,13 @@
 ### Additional information about the meta analysis of flux data is available on zenodo: [10.5281/zenodo.10914506](https://zenodo.org/doi/10.5281/zenodo.10914505)
 
 ---
-Meta-Analysis of data using metafor
+# Meta-Analysis for Permafrost Review: 
+
 by Laura Schaerer
 
-See Meta-Analysis-Report-V1.pdf for outputs from the code
+See Meta-Analysis-Report-V1.pdf for examples of outputs from the code
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-# Meta-Analysis for Permafrost Review: 
 
 ```{r packages}
 #load required R packages
