@@ -10,7 +10,6 @@
 
 ### Additional information about the meta analysis of flux data is available on zenodo: [10.5281/zenodo.10914506](https://zenodo.org/doi/10.5281/zenodo.10914505)
 
-
 ---
 title: "Meta-Analysis"
 author: "Laura Schaerer"
