@@ -6,8 +6,6 @@
 
 ##### ord_vars_for_R_V4.csv Input data for Figure 2
 
-##### flux_data_compilation.csv Input data for the meta analysis
-
 ### Additional information about the meta analysis of flux data is available on zenodo: [10.5281/zenodo.10914506](https://zenodo.org/doi/10.5281/zenodo.10914505)
 
 ---
