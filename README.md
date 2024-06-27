@@ -11,12 +11,10 @@
 ### Additional information about the meta analysis of flux data is available on zenodo: [10.5281/zenodo.10914506](https://zenodo.org/doi/10.5281/zenodo.10914505)
 
 ---
-title: "Meta-Analysis"
-author: "Laura Schaerer"
-date: "2024-06-11"
-output:
-  html_document:
-    df_print: paged
+Meta-Analysis of data using metafor
+by Laura Schaerer
+
+See Meta-Analysis-Report-V1.pdf for outputs from the code
 ---
 
 ```{r setup, include=FALSE}
