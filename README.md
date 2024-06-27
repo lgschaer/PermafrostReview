@@ -1,4 +1,4 @@
-## This is the code repository for "Permafrost microbes unleashed: thaw reactors provide timely insights into greenhouse gas feedbacks for climate stewardship"
+# This is the code repository for "Permafrost microbes unleashed: thaw reactors provide timely insights into greenhouse gas feedbacks for climate stewardship"
 
 ### Files include:
 
